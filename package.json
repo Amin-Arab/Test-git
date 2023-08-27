@@ -1,0 +1,12 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node.js",
+  "scripts": {
+    "dev" : "node server.js "
+    },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
